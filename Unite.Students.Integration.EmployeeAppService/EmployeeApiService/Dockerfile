@@ -15,7 +15,6 @@ COPY *.csproj ./employeeservice/
 # RUN update-ca-certificates
 # RUN echo %USERPROFILE%
 # RUN curl https://www.google.com/
-#RUN dotnet restore ./employeeservice/Unite.Students.Integration.EmployeeAppService.csproj
 RUN dotnet restore ./employeeservice/EmployeeApiService.csproj
 
 # copy everything else and build app
@@ -26,4 +25,4 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-buster-slim AS runtime
 WORKDIR /src
 COPY --from=build /src/employeeservice/out ./
-ENTRYPOINT ["dotnet", "Unite.Students.Integration.EmployeeAppService.dll"]
+ENTRYPOINT ["dotnet", "EmployeeApiService.dll"]
