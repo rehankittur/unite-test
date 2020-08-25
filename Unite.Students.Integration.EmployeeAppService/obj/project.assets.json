@@ -57,14 +57,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\126119\\EmployeeAppCoreService\\Unite.Students.Integration.EmployeeAppService\\Unite.Students.Integration.EmployeeAppService.csproj",
-      "projectName": "Unite.Students.Integration.EmployeeAppService",
-      "projectPath": "C:\\Users\\126119\\EmployeeAppCoreService\\Unite.Students.Integration.EmployeeAppService\\Unite.Students.Integration.EmployeeAppService.csproj",
+      "projectUniqueName": "C:\\LocalDevelopment\\Unite.Students.Integration.EmployeeAppService\\EmployeeApiService\\EmployeeApiService.csproj",
+      "projectName": "EmployeeApiService",
+      "projectPath": "C:\\LocalDevelopment\\Unite.Students.Integration.EmployeeAppService\\EmployeeApiService\\EmployeeApiService.csproj",
       "packagesPath": "C:\\Users\\126119\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\126119\\EmployeeAppCoreService\\Unite.Students.Integration.EmployeeAppService\\obj\\",
+      "outputPath": "C:\\LocalDevelopment\\Unite.Students.Integration.EmployeeAppService\\EmployeeApiService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\126119\\EmployeeAppCoreService\\Unite.Students.Integration.EmployeeAppService\\NuGet.Config",
         "C:\\Users\\126119\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -74,7 +73,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://nuget.sitefinity.com/nuget": {},
-        "http://private-repository/SEM.NuGetServer.v3/feed/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

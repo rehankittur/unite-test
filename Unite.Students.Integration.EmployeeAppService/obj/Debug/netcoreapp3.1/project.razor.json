@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\126119\\EmployeeAppCoreService\\Unite.Students.Integration.EmployeeAppService\\Unite.Students.Integration.EmployeeAppService.csproj",
+  "FilePath": "c:\\LocalDevelopment\\Unite.Students.Integration.EmployeeAppService\\EmployeeApiService\\EmployeeApiService.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14389,7 +14389,7 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "Unite.Students.Integration.EmployeeAppService",
+  "RootNamespace": "EmployeeApiService",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

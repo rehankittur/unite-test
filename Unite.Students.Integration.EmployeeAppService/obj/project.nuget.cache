@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JzU4QQNdXLQFv3y0Az6RqvO3i43WZwlVishwtN8bvR4ex04Ji8EdNNoF1o1E+fhBP4XUb/A3sVZVn95OQlnIHQ==",
+  "dgSpecHash": "QXFpFm5pLwzRw3SPeEFwzGyYVM/5XRXHhectHjQzH56jB0/EVaWpI+Uv0wrKrCtkj6x4C6qlT7T4ELsGAyfJBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\126119\\EmployeeAppCoreService\\Unite.Students.Integration.EmployeeAppService\\Unite.Students.Integration.EmployeeAppService.csproj",
+  "projectFilePath": "C:\\LocalDevelopment\\Unite.Students.Integration.EmployeeAppService\\EmployeeApiService\\EmployeeApiService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\126119\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

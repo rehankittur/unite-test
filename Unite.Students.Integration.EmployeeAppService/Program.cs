@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Unite.Students.Integration.EmployeeAppService
+namespace EmployeeApiService
 {
     public class Program
     {
