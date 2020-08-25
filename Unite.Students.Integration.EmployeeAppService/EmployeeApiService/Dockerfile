@@ -15,8 +15,8 @@ COPY *.csproj ./employeeservice/
 # RUN update-ca-certificates
 # RUN echo %USERPROFILE%
 # RUN curl https://www.google.com/
-#RUN dotnet restore ./employeeservice/Unite.Students.Integration.EmployeeAppService.csproj
-RUN dotnet restore ./Unite.Students.Integration.EmployeeAppService.csproj
+RUN dotnet restore ./employeeservice/Unite.Students.Integration.EmployeeAppService.csproj
+
 
 # copy everything else and build app
 COPY . ./employeeservice/
